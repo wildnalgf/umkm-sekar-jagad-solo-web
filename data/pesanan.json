@@ -1,0 +1,38 @@
+[
+    {
+        "kode": "PSN-0001",
+        "waktu": "2026-11-24 18:49:36",
+        "nama": "wildan maulana",
+        "whatsapp": "013274293738",
+        "kode_produk": "P04",
+        "nama_produk": "Batik Tulis Parang",
+        "jumlah": 1,
+        "harga_satuan": 350000,
+        "total": 350000,
+        "catatan": "es dikit"
+    },
+    {
+        "kode": "PSN-0002",
+        "waktu": "2026-11-24 19:48:22",
+        "nama": "Wildan maulana",
+        "whatsapp": "084573686294",
+        "kode_produk": "P04",
+        "nama_produk": "Batik Tulis Parang",
+        "jumlah": 1,
+        "harga_satuan": 350000,
+        "total": 350000,
+        "catatan": ""
+    },
+    {
+        "kode": "PSN-0003",
+        "waktu": "2026-11-24 19:49:44",
+        "nama": "Wildan Maulana",
+        "whatsapp": "08487826439763",
+        "kode_produk": "P04",
+        "nama_produk": "Batik Tulis Parang",
+        "jumlah": 1,
+        "harga_satuan": 350000,
+        "total": 350000,
+        "catatan": ""
+    }
+]
